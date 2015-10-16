@@ -1,0 +1,19 @@
+{
+  "name": "angular-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tjsail33/angular-template",
+  "authors": [
+    "Tim Costa <tcosta@2u.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
